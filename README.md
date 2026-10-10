@@ -56,5 +56,5 @@ We will only be using the [new Twitter API v2](https://developer.twitter.com/en/
 Let us start with module 1, that provides an introduction to Twitter API and examples of research with it.
 
 [![Get Started](./assets/getting-started.png)](./modules/1-introduction-to-the-twitter-api.md)
-Created by Jason Scott Heise
-Owned by Jason Scott Heise and Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
